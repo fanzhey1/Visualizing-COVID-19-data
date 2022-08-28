@@ -1,6 +1,6 @@
 # Visualizing-COVID-19-data
 
-In this project, I developed an dashboard to present daily visualizations of COVID-19 data collected from the ***European Centre for Disease Prevention and Control***. With this dashboard, one could use the data downloaded from the **ECDC** website to automatically generate plots regarding COVID-19 cases and deaths to get the insights of how the coronavirus is spreading across different countries at different times.
+In this project, I developed a dashboard to present daily visualizations of COVID-19 data collected from the ***European Centre for Disease Prevention and Control***. With this dashboard, one could use the data downloaded from the **ECDC** website to automatically generate plots regarding COVID-19 cases and deaths to get the insights of how the coronavirus is spreading across different countries at different times.
 
 *Data used in this project was from Mar. 21, 2020 to Aug. 27, 2020.*
 
