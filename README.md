@@ -13,3 +13,5 @@ The second part of the project creates a 2 by 2 subplots of per 1 million cases 
 The third part of the project generates an interactive plot of the Infection rate per 1m (x) versus Fatality rate per 1m (y).
 
 The final part of the project creates 2 subplots. 1). a 2 by 2 subplots of inflection cases per continent and globally, daily and 7-day smoothed. 2). a 2 by 2 subplots of the daily mortalities and the cumulative mortalities per continent and globally.
+
+*This project is adapted from an assignment from CHE1148 at University of Toronto.*
